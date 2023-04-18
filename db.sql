@@ -1,1 +1,0 @@
-select * from zahi where name like '%__s_'
